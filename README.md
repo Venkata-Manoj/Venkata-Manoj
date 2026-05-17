@@ -15,7 +15,7 @@
 
 I'm **Ballani Venkata Manoj** — a B.Tech CSE (AI & Data Science) student at SIMATS Engineering / Saveetha University, graduating 2028. I build things that sit at the intersection of AI, product, and developer tooling. My flow triggers are shipping fast, learning new concepts, and competing.
 
-- 🎓 2nd year → 3rd year (AI & Data Science, SIMATS Engineering)
+- 🎓 3rd year - AI & Data Science, SIMATS Engineering
 - 🔍 Actively seeking internships in **AI Engineering · ML Engineering · Data Science · Software Engineering**
 - 📍 Chennai, India · Open to Hyderabad, Bangalore, Mumbai, Vizag & Remote
 - 💡 Domain interests: Education, Fintech, Healthcare
@@ -110,7 +110,7 @@ I'm **Ballani Venkata Manoj** — a B.Tech CSE (AI & Data Science) student at SI
 
 ---
 
-### 🎓 [IdeaForge_2k26](https://github.com/Venkata-Manoj/IdeaForge_2k26)
+### 🎓 [IdeaForge_2k26](https://github.com/Venkata-Manoj/IdeaForge_2k26) · [Live ↗](https://ideaforge-2k26.vercel.app)
 > Modern web-based e-certificate generation platform with username validation and personalized digital certificate rendering, built with React, TypeScript, and Node.js.
 
 `JavaScript` · `React` · `TypeScript` · `Node.js`
