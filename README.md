@@ -61,6 +61,11 @@ I'm **Ballani Venkata Manoj** — a B.Tech CSE (AI & Data Science) student at SI
 
 ## 🚀 Highlighted Projects
 
+### 🎥[VideoReverse](https://github.com/Venkata-Manoj/videoreverse)
+> Deconstructs any video into production-ready AI prompts for Runway, Veo, Kling, Sora, Luma, and other video generation models. Built with Python, Gemini API, and ffmpeg with intelligent fallback chains and Docker support.
+
+`Python` · `yt-dlp` · `Multi-LLM` · `ffmpeg` · `whisper`
+
 ### 🤖 [AI-News-Bot](https://github.com/Venkata-Manoj/AI-News-Bot)
 > Autonomous AI news intelligence system — monitors 6 sources (RSS, Reddit, Twitter, YouTube, HN, arXiv), summarizes with a 6-provider LLM fallback chain (Gemini → NVIDIA → OpenRouter → Groq → Ollama → LM Studio), and delivers rich cards to Telegram every 45 minutes.
 
