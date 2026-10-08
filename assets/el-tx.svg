@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="250" viewBox="0 0 230 250">
+<defs><pattern id="s" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M10 0H0V10" fill="none" stroke="#12304f" stroke-width=".6"/></pattern>
+<pattern id="l" width="50" height="50" patternUnits="userSpaceOnUse"><rect width="50" height="50" fill="url(#s)"/><path d="M50 0H0V50" fill="none" stroke="#1b4470" stroke-width=".8"/></pattern></defs>
+<style>text{font-family:ui-monospace,'JetBrains Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#e8f4ff} .d{fill:#4f7ea8} .a{fill:#ff8a3d} .c{fill:#7fd3ff}</style>
+<rect width="230" height="250" fill="#0a1a2f"/><rect width="230" height="250" fill="url(#l)"/>
+<rect x="10" y="10" width="210" height="230" fill="#0a1a2f" fill-opacity=".85" stroke="#7fd3ff" stroke-width="1.2"/>
+<text x="22" y="32" font-size="12" class="c" text-anchor="start" letter-spacing="0" font-weight="600">003</text>
+<text x="208" y="32" font-size="11" class="a" text-anchor="end" letter-spacing="0" font-weight="600">CI</text>
+<g transform="rotate(-25 115.0 108)"><ellipse cx="115.0" cy="108" rx="70" ry="22" fill="none" stroke="#4f7ea8" stroke-width=".6" stroke-dasharray="2 3"/><circle r="2.6" fill="#ff8a3d"><animateMotion dur="6s" repeatCount="indefinite" path="M185.0 108 A70 22 0 1 1 45.0 108 A70 22 0 1 1 185.0 108"/></circle></g>
+<g transform="rotate(25 115.0 108)"><ellipse cx="115.0" cy="108" rx="70" ry="22" fill="none" stroke="#4f7ea8" stroke-width=".6" stroke-dasharray="2 3"/><circle r="2.6" fill="#7fd3ff"><animateMotion dur="8s" repeatCount="indefinite" path="M185.0 108 A70 22 0 1 1 45.0 108 A70 22 0 1 1 185.0 108"/></circle></g>
+<g transform="rotate(0 115.0 108)"><ellipse cx="115.0" cy="108" rx="46" ry="46" fill="none" stroke="#4f7ea8" stroke-width=".6" stroke-dasharray="2 3"/><circle r="2.6" fill="#7fd3ff"><animateMotion dur="10s" repeatCount="indefinite" path="M161.0 108 A46 46 0 1 1 69.0 108 A46 46 0 1 1 161.0 108"/></circle></g>
+<text x="115.0" y="126" font-size="50" class="" text-anchor="middle" letter-spacing="0" font-weight="700">Tx</text>
+<text x="115.0" y="176" font-size="12" class="c" text-anchor="middle" letter-spacing="1.5" font-weight="600">TRANSCRIBO</text>
+<path d="M30 188H200" stroke="#4f7ea8" stroke-width=".5"/>
+<text x="115.0" y="204" font-size="9" class="d" text-anchor="middle" letter-spacing="0" font-weight="400">speech → Telugu study notes</text>
+<text x="115.0" y="226" font-size="8" class="a" text-anchor="middle" letter-spacing="2" font-weight="400">AUDIO</text>
+</svg>
