@@ -1,6 +1,6 @@
 <a href="https://venkata-manoj.vercel.app/"><img src="./assets/hero.svg" width="100%" alt="Venkata Manoj — AI & Data Science, SIMATS '28. Seeking AI/ML internships."/></a>
 
-<p align="center"><code><a href="https://venkata-manoj.vercel.app/">PORTFOLIO ↗</a></code> · <code><a href="https://linkedin.com/in/venkata-manoj">LINKEDIN ↗</a></code> · <code><a href="https://x.com/Manoj13016367">X ↗</a></code> · <code><a href="https://venkata-manoj-sketch.vercel.app">SKETCHBOOK ↗</a></code> · <code><a href="https://vmb-iota.vercel.app">BOOK FOLIO ↗</a></code></p>
+<p align="center"><code><a href="https://venkata-manoj.vercel.app/">PORTFOLIO ↗</a></code> · <code><a href="https://linkedin.com/in/venkata-manoj">LINKEDIN ↗</a></code> · <code><a href="https://x.com/Manoj13016367">X ↗</a></code> · <code><a href="https://venkata-manoj-sketch.vercel.app">SKETCHBOOK ↗</a></code> · <code><a href="https://vmb-iota.vercel.app">BOOK ↗</a></code></p>
 
 <table align="center"><tr>
 <td><a href="https://github.com/Venkata-Manoj/AI-News-Bot"><img src="./assets/el-nw.svg" width="200" alt="AI-News-Bot"/></a></td>
@@ -18,8 +18,8 @@
 
 #### `FIELD NOTES`
 
-> **First law.** A pipeline at rest stays at rest. Mine fall back through six LLMs before they stop.
-> **Second law.** Output = curiosity × deadlines. Hackathons supply the second term.
+> **First law.** A pipeline at rest stays at rest. Mine fall back through six LLMs before they stop. <br>
+> **Second law.** Output = curiosity × deadlines. Hackathons supply the second term. <br>
 > **Third law.** Every feature I ship gets an equal and opposite test suite.
 
 <details>
